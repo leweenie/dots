@@ -1,0 +1,143 @@
+/* █▀ ▀█▀ █▄█ █░░ █ █▄░█ █▀▀ */
+/* ▄█ ░█░ ░█░ █▄▄ █ █░▀█ █▄█ */
+
+* {
+  background-color: rgba(0, 0, 0, 0);
+  /*border-radius: 8px;*/
+  font-family: "JetBrainsMono Nerd Font";
+  /*font-family: "CaskaydiaCove Nerd Font Mono";*/
+  font-weight: bold;
+  /*font-size: 6px;*/
+  /*min-height: 6px;*/
+  padding: 0;
+  margin: 0;
+  color: white;
+  padding: 0px 2px;
+}
+
+#clock {
+  font-family: "CaskaydiaCove Nerd Font Mono";
+  font-size: 11px;
+  font-weight: bold;
+  padding: 0px 15px;
+  background-color: rgba(17, 17, 27, .85);
+  padding: 0px 13px;
+  margin-left: 10px;
+  margin-top: 2px;
+  border-color: #b4befe;
+  border-radius: 20px;
+  margin-bottom: 4px;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, .25);
+}
+
+/*#pulseaudio {*/
+/*  font-size: 6px;*/
+/*  background-color: rgba(17, 17, 27, .85);*/
+/*  padding-left: 10px;*/
+/*  padding-right: 8px;*/
+/*  padding-top: 6px;*/
+/*  padding-bottom: 6px;*/
+/*  margin-right: 20px;*/
+/*  margin-top: 5px;*/
+/*  border-color: #b4befe;*/
+/*  border-radius: 20px;*/
+/*}*/
+
+/*#waybar > box {*/
+/*  background-color: red;*/
+/*  padding: 10px 0px;*/
+/*}*/
+
+#workspaces {
+  background-color: rgba(17, 17, 27, .85);
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  margin-right: 20px;
+  margin-top: 5px;
+  margin-bottom: 4px;
+  border-color: #b4befe;
+  border-radius: 20px;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, .25);
+}
+
+#tray {
+  font-family: "CaskaydiaCove Nerd Font Mono";
+  color: red;
+  font-size: 15px;
+  font-weight: normal;
+  padding: 0px 15px;
+  background-color: rgba(17, 17, 27, .85);
+  padding: 0px 12px;
+  margin-right: 10px;
+  margin-left: 20px;
+  margin-top: 2px;
+  border-color: #b4befe;
+  border-radius: 20px;
+  margin-bottom: 4px;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, .25);
+}
+
+#workspaces button {
+  font-size: 4px;
+  min-height: 5px;
+  background-color: #474747;
+  padding: 0px 0px;
+  margin: 0px 2px;
+  min-width: 9px;
+  border-radius: 20px;
+}
+
+#workspaces button.active {
+  background-color: rgba(239, 237, 225, .85); 
+  padding: 0px 7px;
+  border-radius: 20px;
+}
+
+
+#custom-power {
+  font-family: "CaskaydiaCove Nerd Font Mono";
+  font-size: 15px;
+  font-weight: normal;
+  padding: 0px 15px;
+  background-color: rgba(17, 17, 27, .85);
+  padding: 0px 12px;
+  margin-right: 10px;
+  margin-left: 20px;
+  margin-top: 2px;
+  border-color: #b4befe;
+  border-radius: 20px;
+  margin-bottom: 4px;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, .25);
+}
+
+#custom-updates {
+  font-family: "CaskaydiaCove Nerd Font Mono";
+  font-size: 11px;
+  font-weight: bold;
+  padding: 0px 15px;
+  background-color: rgba(17, 17, 27, .85);
+  padding-left: 1px;
+  padding-right: 15px;
+  margin-top: 2px;
+  border-color: #b4befe;
+  border-radius: 20px;
+  margin-bottom: 4px;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, .25);
+}
+
+#window {
+  font-family: "CaskaydiaCove Nerd Font Mono";
+  font-size: 11px;
+  font-weight: bold;
+  background-color: rgba(17, 17, 27, .85);
+  padding-left: 10px;
+  padding-right: 14px;
+  margin-left: 10px;
+  margin-top: 2px;
+  border-color: #b4befe;
+  border-radius: 20px;
+  margin-bottom: 4px;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, .25);
+}
